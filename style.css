@@ -4,10 +4,18 @@
     font-weight: bold;
     background-color: transparent;
     border: none;
-    margin-left: left;
-    margin-right:left;
-    margin-top: auto;
-    width:70%;
+    float:right;
+    width:90x;
+}
+
+.oneHalfTimesButton{
+    color: white;
+    font-size: 12;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    float:left;
+    width:135px;
 }
 
 .oneTimesButton{
@@ -16,5 +24,6 @@
     font-weight: bold;
     background-color: transparent;
     border: none;
-    position:absolute;
+    float:left;
+    width:0x;
 }
