@@ -3,6 +3,7 @@
     "name": "AceleraZAP",
     "version": "0.2",
     "description": "Acelerando audios do Whatsapp",
+    "about": "Teste",
     "content_scripts": [
         {
             "matches": ["https://web.whatsapp.com/"],
