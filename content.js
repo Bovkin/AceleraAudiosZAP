@@ -1,4 +1,3 @@
-
 const interval = setInterval(() => {
     const header = document.querySelector("._3euVJ");
     if(header){
@@ -28,8 +27,8 @@ const interval = setInterval(() => {
                 audio.playbackRate = 2;
             })
             button2x.style.color = '#66ff33';
-            button1Halfx.style.color = 'white';
-            button1x.style.color = 'white';
+            button1Halfx.style.color = '#D3D0CF';
+            button1x.style.color = '#D3D0CF';
         });
 
         button1Halfx.addEventListener("click", () => {
@@ -38,8 +37,8 @@ const interval = setInterval(() => {
                 audio.playbackRate = 1.5;
             })
             button1Halfx.style.color = '#66ff33';
-            button2x.style.color = 'white';
-            button1x.style.color = 'white';
+            button2x.style.color = '#D3D0CF';
+            button1x.style.color = '#D3D0CF';
         });
 
         button1x.addEventListener("click", () => {
@@ -48,8 +47,8 @@ const interval = setInterval(() => {
                 audio.playbackRate = 1;
             })
             button1x.style.color = '#66ff33';
-            button1Halfx.style.color = 'white';
-            button2x.style.color = 'white';
+            button1Halfx.style.color = '#D3D0CF';
+            button2x.style.color = '#D3D0CF';
         });
                 
         header.appendChild(button1x);
