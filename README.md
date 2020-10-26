@@ -1,6 +1,11 @@
 ### AceleraAudiosZAP
 
-Extensão que tem a finalidade de acelerar audios do Whatsapp.
+It's a basic extension. This mini project aims to accelerate **Whatsapp** audios.
 
-Baseada no [vídeo](https://www.youtube.com/watch?v=j0Ih1xVyKbY&ab_channel=ProgramadorBr-Tutoriais) do **Programador BR**.
+## Demo
+![AceleraZAP](AceleraZAP.gif)
+
+
+---
+Based on the [video](https://www.youtube.com/watch?v=j0Ih1xVyKbY&ab_channel=ProgramadorBr-Tutoriais) of **Programador BR**.
 
