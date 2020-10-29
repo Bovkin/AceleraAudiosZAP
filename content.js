@@ -56,4 +56,4 @@ const interval = setInterval(() => {
         header.appendChild(button2x);
     }
 
-}, 1000)
+}, 100)
