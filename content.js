@@ -1,5 +1,5 @@
 const interval = setInterval(() => {
-    const header = document.querySelector("._3euVJ");
+    const header = document.querySelector("._2O84H");
     if(header){
         console.log(header);
         clearInterval(interval);
